@@ -1,0 +1,18 @@
+[
+    {
+        "uid": 1
+    },
+    {
+        "id": 1,
+        "Participant": "a",
+        "Participant_uid": "",
+        "EQ_5D_1": "1",
+        "EQ_5D_2": "2",
+        "EQ_5D_3": "3",
+        "EQ_5D_4": "4",
+        "EQ_5D_5": "3",
+        "EQ_5D_6": "59",
+        "submit_date": "06/06/2025",
+        "submited_by": "guest"
+    }
+]

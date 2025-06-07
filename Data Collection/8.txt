@@ -1,0 +1,8 @@
+EQ-5D-5L Data Visit 2 | SFix
+-
+html-web-module | Panel 2 Grid
+-
+https://wappsystem.github.io/html-components/common/grid.html
+https://wappsystem.github.io/html-components/common/grid.js
+Json Editor.edit
+_data/eq-5d-5l-2.json

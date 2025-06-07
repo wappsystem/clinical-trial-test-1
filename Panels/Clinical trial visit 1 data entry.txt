@@ -1,0 +1,5 @@
+Clinical trial visit 1 data entry
+-
+html-web-module
+-
+https://wappsystem.github.io/html-components/test/Clinical trial visit 1 data entry.html
